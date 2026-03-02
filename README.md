@@ -4,7 +4,7 @@
 
 See the overview of this project here: [(https://youtu.be/X3W7WBX3BYs)]
 
-Download my export of the world here: [planet_minecraft_link]
+Download my export of the world here: [(https://www.planetminecraft.com/project/project-zomboid-1-1-map-b42/)]
 
 ## Disclaimer
 These scripts were written by ChatGPT. I only have a basic level of coding knowledge and am NOWHERE NEAR intelligent enough to write something like this.
